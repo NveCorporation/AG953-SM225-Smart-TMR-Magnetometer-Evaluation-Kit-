@@ -7,7 +7,7 @@ Installation Instructions:
        * Locate the USB driver NVESmartSensor.inf in the “C:\Program Files (x86)\NVE folder.”
        * Right click on NVESmartSensor.inf and click “Install.”
        * Connect the AG953 board to a USB port.
-       * Click on the desktop icon to launch the application.
+       * Click on the desktop shortcut to launch the application.
        * The USB connection can be verified by checking for "NVE Smart Sensor" under "Ports (COM & LPT)" in Windows Device Manager.
 
 Questions? We're here to help. E-mail us at sensor-apps[at]nve.com
