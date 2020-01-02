@@ -1,13 +1,8 @@
-User Interface Software for the AG953 Evaluation Kit (SM225 Smart TMR Magnetometer Sensor) Requires Windows 7 or later.
+User Interface Software for the AG953 Evaluation Kit (SM225 Smart TMR Magnetometer Sensor)
+Requires 64-bit Windows 7 or later.
 
 Installation Instructions:
-
-       * Download the software installation package (exe file)
-       * Run the Setup file to begin the installation.
-       * Locate the USB driver “NVESmartSensor.inf” in the “C:\Program Files (x86)\NVE folder.”
-       * Right click on “NVESmartSensor.inf” and click “Install.”
-       * Connect the demo board to a USB port.
-       * Click on the desktop shortcut to launch the application.
-       * The USB connection can be verified by checking for "NVE Smart Sensor" under "Ports (COM & LPT)" in Windows Device Manager.
+       1. Download and run the Setup file to install the User Interface software and USB driver.
+       2. Click on the desktop shortcut to start the User Interface software.
 
 Questions? We're here to help. E-mail us at sensor-apps[at]nve.com
