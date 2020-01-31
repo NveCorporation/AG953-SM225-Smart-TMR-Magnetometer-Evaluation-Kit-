@@ -1,4 +1,4 @@
-User Interface Software for the AG953 Evaluation Kit (SM225 Smart TMR Magnetometer Sensor)
+User Interface Software for the AG953 Evaluation Kit (SM225 Smart TMR Magnetometer Sensor).
 Requires 64-bit Windows 7 or later.
 
 Installation Instructions:
